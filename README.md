@@ -62,3 +62,4 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 
 * John Maeda
 * p5js.org
+* code as creative medium, golan levin y tega brain, <https://mitpress.mit.edu/9780262542043/code-as-creative-medium/> 
