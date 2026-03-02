@@ -45,18 +45,18 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | [01](./00-docentes/sesion-01/README.md)     | 03-13 | cultura computacional  |
 | [02](./00-docentes/sesion-02/README.md)     | 03-20 | dibujo 2D con p5.js    |
 | [03](./00-docentes/sesion-03/README.md)     | 03-27 | variables y tipos      |
-| [04](./00-docentes/sesion-04/README.md)     | 04-03 | iteradores             |
+| [04](./00-docentes/sesion-04/README.md)     | 04-03 | no hay clases          |
 | [05](./00-docentes/sesion-05/README.md)     | 04-10 | solemne 1              |
 | [06](./00-docentes/sesion-06/README.md)     | 04-17 | condicionales y lógica |
-| [07](./00-docentes/sesion-07/README.md)     | 04-24 | funciones              |
-| [08](./00-docentes/sesion-08/README.md)     | 05-01 | texto                  |
+| [07](./00-docentes/sesion-07/README.md)     | 04-24 | iteradores             |
+| [08](./00-docentes/sesion-08/README.md)     | 05-01 | no hay clases          |
 | receso                                      | 05-08 | no hay clases          |
 | [09](./00-docentes/sesion-09/README.md)     | 05-15 | repaso y anteproyecto  |
 | [10](./00-docentes/sesion-10/README.md)     | 05-22 | solemne 2              |
 | [11](./00-docentes/sesion-11/README.md)     | 05-29 | color y computación    |
-| [12](./00-docentes/sesion-12/README.md)     | 06-05 | interactividad         |
-| [13](./00-docentes/sesion-13/README.md)     | 06-12 | aleatoreidad           |
-| [14](./00-docentes/sesion-14/README.md)     | 06-19 | objetos                |
+| [12](./00-docentes/sesion-12/README.md)     | 06-05 | funciones              |
+| [13](./00-docentes/sesion-13/README.md)     | 06-12 | interactividad         |
+| [14](./00-docentes/sesion-14/README.md)     | 06-19 | aleatoreidad           |
 | [15](./00-docentes/sesion-15/README.md)     | 06-26 | examen                 |
 
 ## evaluaciones
